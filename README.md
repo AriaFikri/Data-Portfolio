@@ -12,7 +12,7 @@ In here you will find some of my projects using SQL and python to process datase
 ---
 
 ## Python 
-  ### Bike
+  ### [Bike Sharing Analysis](https://github.com/AriaFikri/Data-Portfolio/blob/main/Bike_Sharing_Project.ipynb) 
 ## SQL
 
 # **Certificates**
