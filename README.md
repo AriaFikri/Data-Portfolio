@@ -13,8 +13,13 @@ In here you will find some of my projects using SQL and python to process datase
 
 ## Python 
   ### [Bike Sharing Analysis](https://github.com/AriaFikri/Data-Portfolio/blob/main/Bike_Sharing_Project.ipynb) 
+  An analysis of a bike sharing dataset with multiple columns. In this portfolio, we go through data cleaning, exploration, and analysis as well as building a few charts to gain insights
+  
 ## SQL
   ### [Company laid off](https://github.com/AriaFikri/Data-Portfolio/blob/main/company_laid_off.sql)
+  A quick data cleaning and exploration done on a dataset
+  ### [The look e-commerce](https://github.com/AriaFikri/Data-Portfolio/blob/main/thelook_ecommerce.sql)
+  A couple of usually asked questions from a public google bigquery dataset. You can try and run this query in your own bigquery console and check out the results!
 
 # **Certificates**
 ---
