@@ -21,6 +21,10 @@ In here you will find some of my projects using SQL and python to process datase
   ### [The look e-commerce](https://github.com/AriaFikri/Data-Portfolio/blob/main/thelook_ecommerce.sql)
   A couple of usually asked questions from a public google bigquery dataset. You can try and run this query in your own bigquery console and check out the results!
 
+## Tableau
+  ### [My tableau page](https://public.tableau.com/app/profile/aria4250/vizzes)
+  Here is my growing tableau page for data visualizations
+
 # **Certificates**
 ---
 - Full-stack Web Bootcamp - Nov 2023 - Binar Academy
